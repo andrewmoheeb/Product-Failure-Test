@@ -9,4 +9,4 @@ I managed to make data proccessing including
 
 I made feature selection using statistical model GLM and filtered the features using the most significant ones (p-value < 0.05)
 
-I used a deep neural network model containing four layers then converted the output to be categorical ones as the neural network gives continues data
+I used a deep neural network model containing four layers reaching accuracy in training about 85% then converted the output to be categorical ones as the neural network gives continues data.
